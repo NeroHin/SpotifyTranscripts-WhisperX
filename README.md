@@ -1,4 +1,4 @@
-# 🎙️ Spotify Transcripts
+# 🎙️ Spotify Transcripts with WhisperX
 Combines Google Speech Recognition and the Spotify API to transcribe your favourite Spotify podcast. The tool also allows you to search the transcript and fastforward to where that sentence is mentioned in the podcast.
 
 ⚠️ See demo below and make sure to unmute the video. 
@@ -33,22 +33,22 @@ npm start
 
 
 ## 📸 Screenshots
-<img src="/misc/readme/1.png"
+<img src="./misc/readme/1.png"
 	title="1" width="800" /> 
 	<br />
 		
-<img src="/misc/readme/2.png"
+<img src="./misc/readme/2.png"
 	title="2" width="800" /> 
 	<br />
 	
-<img src="/misc/readme/3.png"
+<img src="./misc/readme/3.png"
 	title="3" width="800" /> 
 	<br />
 
-<img src="/misc/readme/4.png"
+<img src="./misc/readme/4.png"
 	title="4" width="800" /> 
 	<br />
 	
-<img src="/misc/readme/5.png"
+<img src="./misc/readme/5.png"
 	title="5" width="800" /> 
 	<br />
